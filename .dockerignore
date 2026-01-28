@@ -1,0 +1,8 @@
+testing/
+database/
+sonar.project.properties
+Dockerfile
+.env
+.gitignore
+.dockerignore
+README.md
